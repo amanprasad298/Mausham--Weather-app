@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mausam</string>
+    <string name="location">Location</string>
+    <string name="update_at">Update at</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="_24_c">24°C</string>
+    <string name="humidity">Humidity</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_06_40_am">06:40 AM</string>
+    <string name="sunset">Sunset</string>
+
+    <string name="wind">Wind</string>
+
+    <string name="pressure">Pressure</string>
+
+    <string name="created_by">Created By</string>
+    <string name="aman">Aman</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
